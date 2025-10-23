@@ -81,7 +81,6 @@ A `venv` is a self-contained directory that holds a specific Python interpreter 
 
 4. **Download the source dictionary**
     The game runs based on my modified dictionary, please download and paste into Wordle/
-    
     Link: https://drive.google.com/drive/folders/1BdnN2-PLw5gN-PWRA-oh2_Cd6HFwRsX6?usp=sharing
 
 5.  **Run the Game!**
@@ -107,3 +106,7 @@ pygame-wordle/
 ├── requirements.txt # Project dependencies 
 └── README.md
 ```
+
+### Note
+The project's progress can be tracked from my github's Multiple-Python-Projects, where I finished the project before cloning to their own repositories:
+https://github.com/DankDaPancake/Multiple-Python-Projects
