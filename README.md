@@ -79,7 +79,11 @@ A `venv` is a self-contained directory that holds a specific Python interpreter 
     ```
     *(**Note:** If you haven't created this file, activate your venv, run `pip install pygame`, and then run `pip freeze > requirements.txt` to create it.)*
 
-4.  **Run the Game!**
+4. **Download the source dictionary**
+    The game runs based on my modified dictionary, please download and paste into Wordle/
+    Link: https://drive.google.com/drive/folders/1BdnN2-PLw5gN-PWRA-oh2_Cd6HFwRsX6?usp=sharing
+
+5.  **Run the Game!**
     ```bash
     python main.py
     ```
