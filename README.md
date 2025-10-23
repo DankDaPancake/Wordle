@@ -47,7 +47,12 @@ A `venv` is a self-contained directory that holds a specific Python interpreter 
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/your-username/pygame-wordle.git](https://github.com/your-username/pygame-wordle.git)
+    git clone [https://github.com/DankDaPancake/Wordle.git](https://github.com/DankDaPancake/Wordle.git)
+    cd pygame-wordle
+    ```
+    or 
+    ```bash
+    git clone https://github.com/DankDaPancake/Wordle.git
     cd pygame-wordle
     ```
 
